@@ -3,9 +3,10 @@
 - 🤖 Atualmente trabalho com Programação de Controladores Lógicos Programaveis (CLP)
 - 👨‍💻 Sou estudante de Ciência da Computação
 
-<div>
+<br>
+
+<div align="center">
   <a href="https://github.com/davissantana-byte">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davissantana-byte&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davissantana-byte&layout=compact&langs_count=16&theme=light"/>  
 </div>
 
