@@ -3,8 +3,6 @@
 - 🤖 Atualmente trabalho com Programação de Controladores Lógicos Programaveis (CLP)
 - 👨‍💻 Sou estudante de Ciência da Computação
 
-<br>
-
 <div style="display: inline_block"> <br>
   <img align="center" alt="Davi-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Davi-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
